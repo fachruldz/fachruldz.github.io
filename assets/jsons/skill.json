@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Java",
+        "score": "60"
+    },
+    {
+        "name": "MySQL",
+        "score": "60"
+    },
+    {
+        "name": "PHP",
+        "score": "30"
+    },
+    {
+        "name": "JavaScript",
+        "score": "30"
+    },
+    {
+        "name": "HTML",
+        "score": "30"
+    }
+]

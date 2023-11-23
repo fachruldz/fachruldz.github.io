@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Aplikasi Penjualan Toko Nona Seblak",
+        "link": "https://github.com/fachruldz/Java-Android-Aplikasi-Penjualan-Produk-Toko-Nona-Seblak",
+        "image": "nona-seblak",
+        "category": "Android"
+    },
+    {
+        "title": "Aplikasi Penggajian Karyawan",
+        "link": "https://github.com/fachruldz/Java-Desktop-Aplikasi-Penggajian-Karyawan",
+        "image": "gaji-karyawan",
+        "category": "Desktop"
+    },
+    {
+        "title": "Aplikasi Keuangan Sederhana",
+        "link": "https://github.com/fachruldz/Java-Desktop-Aplikasi-Keuangan-Sederhana",
+        "image": "keuangan",
+        "category": "Desktop"
+    }
+]
